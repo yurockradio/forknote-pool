@@ -1,6 +1,6 @@
 {
-    "coin": "dashcoin",
-    "symbol": "DSH",
+    "coin": "perper",
+    "symbol": "PPC",
     "coinUnits": 1000000000000,
     "coinDifficultyTarget": 120,
 
